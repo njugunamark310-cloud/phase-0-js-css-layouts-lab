@@ -14,3 +14,11 @@
     text-align: center;
     transition: transform 0.3s;
 }
+.cat-breed img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+.cat-breed h3 {
+    margin: 0.5em 0;
+}
